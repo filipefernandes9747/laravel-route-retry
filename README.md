@@ -1,7 +1,7 @@
 # Laravel Route Retry
 ![Thumbnail](assets/thumbnail.png)
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipe9747/laravel-route-retry)
-[![Total Downloads](https://img.shields.io/packagist/dt/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipe9747/laravel-route-retry)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipefernandes/laravel-route-retry)
+[![Total Downloads](https://img.shields.io/packagist/dt/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipefernandes/laravel-route-retry)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 Laravel Route Retry adds a simple and flexible way to capture failed requests (5xx) and retry them later. It's perfect for handling transient failures in webhooks, external API calls, or any critical route.
