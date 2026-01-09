@@ -1,6 +1,5 @@
 # Laravel Route Retry
-
-[![Run Tests](https://github.com/filipefernandes/laravel-route-retry/actions/workflows/run-tests.yml/badge.svg)](https://github.com/filipefernandes/laravel-route-retry/actions/workflows/run-tests.yml)
+![Thumbnail](assets/thumbnail.png)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipe9747/laravel-route-retry)
 [![Total Downloads](https://img.shields.io/packagist/dt/filipe9747/laravel-route-retry.svg?style=flat-square)](https://packagist.org/packages/filipe9747/laravel-route-retry)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
